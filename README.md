@@ -6,6 +6,6 @@ Discovery of git and github
 > I also like :
 - Computer Science
 - Software development
-- writing things like  'for i= 1:n
+- writing things like  `for i= 1:n
  do...
  end`
